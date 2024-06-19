@@ -3,8 +3,7 @@ import { ProductType } from "../../../Type";
 import Container from "@/Components/Container";
 import Image from "next/image";
 import FormattedPrice from "@/Components/FormattedPrice";
-import { cn } from "@/lib/Utils";
-import Product from "@/Components/Product";
+
 
 
 type props ={

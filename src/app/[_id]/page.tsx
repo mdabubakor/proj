@@ -9,7 +9,7 @@ import Product from "@/Components/Product";
 
 type props ={
   searchParams: {[key:string]:string | string[] | undefined}
-  className?: "string"
+  
 }
 
 const page = async ({searchParams}:props) => {
